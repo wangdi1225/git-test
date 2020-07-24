@@ -13,5 +13,6 @@ public class test {
 		System.out.println("用户1:添加代码3");
 		System.out.println("用户1:添加代码4");
 		System.out.println("用户2:添加代码4");
+        System.out.println("用户2:添加代码5");
     }
 }
