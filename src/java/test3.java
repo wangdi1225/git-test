@@ -8,5 +8,7 @@ public class test3 {
    int a;
    int b;
    int c1;
-   int d1;
+   int b2;
+   int c2;
+   int d2;
 }
